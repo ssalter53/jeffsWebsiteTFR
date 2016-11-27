@@ -2,12 +2,10 @@
 
 ### The Problem 
 
-dkjk
+Jeff is a web developer who 
 
 ### Your Mission
 
-dsakfjdsl;
 
 ### Requirements
 
-dsfkjdls;
